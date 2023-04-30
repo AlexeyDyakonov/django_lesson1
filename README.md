@@ -33,7 +33,7 @@ pip install -r requirements.txt
 Для запуска программы необходимо выполнить команду:
 
 ```
-python3 main_django1.py
+python3 main.py
 ```
 
 ### Цель проекта
