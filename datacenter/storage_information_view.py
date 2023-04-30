@@ -1,7 +1,7 @@
 from datacenter.models import Visit
 from django.shortcuts import render
-from time_functions import format_duration
-from time_functions import get_duration
+from datacenter.time_functions import format_duration
+from datacenter.time_functions import get_duration
 
 def storage_information_view(request):
 
